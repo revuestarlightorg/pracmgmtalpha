@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://revuestarlightorg.github.io/pracmgmtalpha/sitemap.xml
